@@ -2,7 +2,7 @@
 
 ## Project Background Overview
 
-This work is based on the problem proposed in [Obermeyer et al., 2019], where a non-negligible racial bias embedded in a current wide-using prediction algorithm. 
+This work is based on the problem proposed in [Obermeyer et al., 2019](original work at) where a non-negligible racial bias embedded in a current wide-using prediction algorithm. 
 
 In this paper *Dissecting racial bias in an algorithm used to manage the health of populations*, the authors focused on a live, scaled algorithm deployed nationwide and applied to roughly 200 million people in the United States. Based on the assumption that the treatment effect of a certain healthcare program is monotonic in the patient’s health risk level, this prediction algorithm aimed at identifying the top 3 percent people with the greatest health risk to be automatically enrolled into the program, and also the top 45 percent people to be considered as candidates of enrollment.
 
