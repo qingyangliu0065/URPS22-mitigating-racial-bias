@@ -1,0 +1,16 @@
+---
+title: "obermeyer_data_analysis"
+author: "Qingyang Liu"
+date: '2022-08-07'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+data <- read.csv("")
+summary(data)
+```
+
